@@ -3,11 +3,11 @@
 # Cuba’s “Sneakernet”
 **An examination of Cuba’s “offline Internet”, a response to and extension of Cuba’s “Special Period in the Time of Peace”**
 <br>Written by Robert Pino
-02/29/2015
-For GTD 508: Tech/Dev in Latin America
-Taught by Dr. Parmentier
-
-Introduction
+<br>02/29/2015
+<br>For GTD 508: Tech/Dev in Latin America
+<br>Taught by Dr. Parmentier
+<br>
+**Introduction**
 
 Ever since the country was embargoed by the United States in October of 1960, Cuba has been relatively isolated from many of the technological developments of the rest of the world. This is perhaps no more clearly indicated than in the country’s low levels of Internet adoption- as The Washington Post reported in 2014, shortly before the Obama Administration began moves to normalize relationships between the United States and Cuba, “only about 5 percent of the Cuban population can get on the full global Internet, and only, often, through government institutions, high-end hotels, and black market access” (Scola). But this lack of Internet penetration cannot only be attributed to the external force of poor American-Cuban relations- FreedomHouse notes that Cuba “has long ranked as one of the world’s most repressive environments for information and communication technologies”, and that many of the country’s Internet usage statistics are artificially inflated with statistics regarding “the government-controlled intranet” (FreedomHouse). But the people of Cuba have come up with a novel solution to this dual-faced problem of oppression and lack of Internet penetration- they have developed a thriving Sneakernet, colloquially known as “El Paquete Semanal”, or The Weekly Packet (Watts). This system, itself an extension of the Cuban people’s numerous handmade technological innovations during “The Special Period in the Time of Peace”, represented a continuation of the Cuban peoples’ long-standing approach to technology- that which could not be procured from the outside (and this was much) had to be produced internally, utilizing whatever means necessary. To understand the significance of this system, in which illicitly imported and downloaded content is distributed around the country by way of USB drives, we must first explore the context of the country’s relationship with other major players in the information technology marketplace, beginning with Cuba’s embargo at the hands of the United States and ultimately arriving at today, and the country’s increased focus on building Internet infrastructure.
 
